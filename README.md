@@ -1,1 +1,1 @@
-# cryptocurrency_with_R
+# Playing with cryptocurrency historical data using R
