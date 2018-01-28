@@ -2,7 +2,7 @@ library(XML)
 library(RCurl)
 library(rlist)
 # Sys.getenv("JAVA_HOME")
-Sys.setenv(JAVA_HOME="c:/Program Files/Java/jdk1.8.0_144/jre/")
+Sys.setenv(JAVA_HOME="c:/Program Files/Java/jdk1.8.0_144/jre/") # Java just in case - some problems with xlsx
 library(xlsx)
 
 # set url
